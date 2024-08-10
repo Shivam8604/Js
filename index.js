@@ -49,24 +49,26 @@
 
 // Arrays
 
-// var arr1 = [123, "shivam" ,27,"pal"];
+// var arr2 = [123, "shivam" ,27,"pal"];
 
 // console.log(arr1);
 // console.log(arr1[2]);
 
 
 
-var data = "Shivam pal";
+// var data = "Shivam pal";
 // console.log(data.toLocaleLowerCase());
 // console.log(data.toUpperCase());
 // console.log(data.length);
 
-console.log(data.slice(2,6));
+// console.log(data.slice(2,6));
 
-var sentance = "JavaScripts is mind blowing";
+// var sentance = "JavaScripts is mind blowing";
 
-console.log(sentance);
-console.log(sentance.replace("JavaScript","Shivam"));
-console.log(sentance.includes("Pal"))
+// console.log(sentance);
+// console.log(sentance.replace("JavaScript","Shivam"));
+// console.log(sentance.includes("Pal"))
+
+
 
 
